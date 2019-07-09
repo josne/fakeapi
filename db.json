@@ -1,0 +1,52 @@
+{
+  "telegrams":[
+  {
+  "header" : {
+    "content" : "telegram",
+    "gateway" : "DC-GW/EO-IP v0.99.42",
+    "timestamp" : "2018-07-19T21:12:35.927+0200"
+  },
+  "telegram" : {
+    "deviceId" : "01A02E8F",
+    "friendlyId" : "WohnenEssen-RJ-2",
+    "timestamp" : "2018-07-19T21:12:35.927+0200",
+    "direction" : "from",
+    "functions" : [ {
+      "key" : "position",
+      "value" : 10.00,
+      "unit" : "%"
+    } ],
+    "telegramInfo" : {
+      "rorg" : "D2",
+      "data" : "0A7F0004",
+      "status" : "0",
+      "dbm" : -65
+    }
+  }
+}, {
+  "header" : {
+    "content" : "telegram",
+    "gateway" : "DC-GW/EO-IP v0.99.42",
+    "timestamp" : "2018-07-19T21:12:35.927+0200"
+  },
+  "telegram" : {
+    "deviceId" : "XXXXXX",
+    "friendlyId" : "WohnenEssen-RJ-2",
+    "timestamp" : "2018-07-19T21:12:35.927+0200",
+    "direction" : "from",
+    "functions" : [ {
+      "key" : "position",
+      "value" : 10.00,
+      "unit" : "%"
+    } ],
+    "telegramInfo" : {
+      "rorg" : "D2",
+      "data" : "0A7F0004",
+      "status" : "0",
+      "dbm" : -65
+    }
+  }
+}
+  ]
+  
+  }
