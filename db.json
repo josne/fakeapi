@@ -1,6 +1,7 @@
 {
   "telegrams":[
   {
+    "id": 1,
   "header" : {
     "content" : "telegram",
     "gateway" : "DC-GW/EO-IP v0.99.42",
@@ -24,6 +25,7 @@
     }
   }
 }, {
+  "id": 2,
   "header" : {
     "content" : "telegram",
     "gateway" : "DC-GW/EO-IP v0.99.42",
